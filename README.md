@@ -1,4 +1,4 @@
-# 🎤 AI Interview Agent
+# 🎤 INTERVIEWIQ
 
 An AI-powered mock interview platform that helps users prepare for job interviews through personalized AI-generated questions, voice/text interaction, and real-time performance evaluation.
 
